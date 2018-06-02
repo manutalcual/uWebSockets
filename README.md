@@ -1,4 +1,8 @@
-<div align="center"><img src="misc/images/logo.png"/></div>
+<!--div align="center"><img src="misc/images/logo.png"/></div-->
+
+***This has been forked from uWebSockets***
+There is no maintenance in this repo. If you have something to do with
+this, please go to the original repo.
 
 `µWS` ("[micro](https://en.wikipedia.org/wiki/Micro-)WS") is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. It features an easy-to-use, fully async object-oriented interface and scales to millions of connections using only a fraction of memory compared to the competition. While performance and scalability are two of our top priorities, we consider security, stability and standards compliance paramount. License is zlib/libpng (very permissive & suits commercial applications).
 
